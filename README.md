@@ -1,8 +1,9 @@
-### BoBo the amazing 😃 
-- 🤟🏻 really appreciate for your star !
-- 🏊 Move forward in the dark
+### BoBo the amazing 
+- really appreciate for your star !
+- Move forward in the dark
+- Have a nice day ~
 
-[![BoBoooooo's github stats](https://github-readme-stats.vercel.app/api?username=BoBoooooo&show_icons=true&theme=radical)](https://github.com/BoBoooooo/github-readme-stats)
+[![BoBoooooo's github stats](https://github-readme-stats.vercel.app/api?username=BoBoooooo&show_icons=true&theme=dracula)](https://github.com/BoBoooooo/github-readme-stats)
 
 ### Tech Stack
 <table>
@@ -24,6 +25,10 @@
         <span>𝗩𝘂𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
+      <td width="20%" align="center">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
@@ -39,6 +44,10 @@
       <td width="20%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+       <td width="20%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
   </tbody>

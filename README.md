@@ -1,6 +1,6 @@
 ### Hi there, I'm BoBoooooo! 👋
 - really appreciate for your star !
-- Move forward in the dark ~
+- move forward in the dark ~
 - wish you Have a nice day ~
 
 [![BoBoooooo's github stats](https://github-readme-stats.vercel.app/api?username=BoBoooooo&show_icons=true&theme=dracula)](https://github.com/BoBoooooo/github-readme-stats)

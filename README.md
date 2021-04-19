@@ -46,8 +46,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
        <td width="20%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <span>NPM</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/npm-icon.svg">
       </td>
     </tr>
   </tbody>

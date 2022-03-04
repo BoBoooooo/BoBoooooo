@@ -3,7 +3,9 @@
 - move forward in the dark ~
 - wish you Have a nice day ~
 
-[![BoBoooooo's github stats](https://github-readme-stats.vercel.app/api?username=BoBoooooo&show_icons=true&theme=dracula)](https://github.com/BoBoooooo/github-readme-stats)
+[![BoBoooooo's github stats](https://github-readme-stats.vercel.app/api?username=BoBoooooo&show_icons=true&theme=buefy)](https://github.com/BoBoooooo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBoooooo&layout=compact&theme=buefy)](https://github.com/BoBoooooo/github-readme-stats)
 
 ### Tech Stack
 <table>

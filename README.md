@@ -1,7 +1,6 @@
 ### Hi there, I'm BoBoooooo! 👋
 - really appreciate for your star !
-- move forward in the dark ~
-- wish you Have a nice day ~
+- wish you have a nice day ~
 
 [![BoBoooooo's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=BoBoooooo&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_rank=true)](https://github.com/BoBoooooo/github-readme-stats)[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=BoBoooooo&layout=compact&theme=buefy)](https://github.com/BoBoooooo/github-readme-stats)
 

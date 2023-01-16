@@ -3,7 +3,7 @@
 - move forward in the dark ~
 - wish you Have a nice day ~
 
-[![BoBoooooo's github stats](https://github-readme-stats-ruby-one.vercel.app](https://github-readme-stats-ruby-one.vercel.app/api?username=BoBoooooo&show_icons=true&hide=stars&layout=compact&count_private=true&hide_border=true&hide_rank=true)](https://github.com/BoBoooooo/github-readme-stats)
+[![BoBoooooo's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=BoBoooooo&show_icons=true&hide=stars&layout=compact&count_private=true&hide_border=true&hide_rank=true)](https://github.com/BoBoooooo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=BoBoooooo&layout=compact&theme=buefy)](https://github.com/BoBoooooo/github-readme-stats)
 

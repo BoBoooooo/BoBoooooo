@@ -2,7 +2,14 @@
 - really appreciate for your star !
 - wish you have a nice day ~
 
-[![BoBoooooo's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=BoBoooooo&show_icons=true&layout=compact&count_private=true&hide_border=true&hide_rank=true)](https://github.com/BoBoooooo/github-readme-stats)[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=BoBoooooo&layout=compact&theme=buefy)](https://github.com/BoBoooooo/github-readme-stats)
+<!-- Light Mode -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BoBoooooo&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BoBoooooo&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+
 
 ### Tech Stack
 <table>

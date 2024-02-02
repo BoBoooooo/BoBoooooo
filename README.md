@@ -10,7 +10,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🏦 Hi there! I'm a pseudo full-stack developer with a focus on low-code development. & AIGC. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a pseudo full-stack developer with a focus on low-code development & AIGC. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p style="font-size: 14px">
 I have years of experience exploring and practicing low-code development, specifically in the areas of middle and front-end development, using a mix of LowCode, ProCode, and NoCode approaches. My expertise extends to traditional DSL low-code and source code AST low-code.
 </p>

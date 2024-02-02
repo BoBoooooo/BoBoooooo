@@ -11,12 +11,17 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🏦 I'm a pseudo full-stack developer with a focus on low-code development & AIGC. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+I have extensive experience in low-code development, specifically in middle and front-end development. I am proficient in a combination of LowCode, ProCode, and NoCode approaches. Additionally, I am knowledgeable in traditional DSL low-code and source code AST low-code.
+
+Recently, my focus has been on exploring the applications of Artificial Intelligence-Generated Content (AIGC) in various aspects of development. This includes workflow automation, visual diagram generation, AI-powered design collaboration, end-to-end coordination, and intelligent agent integration. I am particularly interested in how AIGC can enhance the traditional B2B and B2C development workflow, development models, design collaboration, and product interaction patterns, resulting in improved efficiency.
+
 <p style="font-size: 14px">
-I have years of experience exploring and practicing low-code development, specifically in the areas of middle and front-end development, using a mix of LowCode, ProCode, and NoCode approaches. My expertise extends to traditional DSL low-code and source code AST low-code.
+I have extensive experience in a combination of LowCode, ProCode, and NoCode approaches. Additionally, I am knowledgeable in traditional DSL low-code and source code AST low-code.
 </p>
 
 <p style="font-size: 14px">
-Recently, I've been primarily exploring AIGC (Artificial Intelligence-Generated Content) in various aspects of the development process, including workflow automation, visual diagram generation, AI-powered design collaboration, end-to-end coordination, and intelligent agent integration. I'm particularly interested in how AIGC can enhance the traditional B2B and B2C development workflow, development models, design collaboration, and product interaction patterns, ultimately leading to improved efficiency.  
+Recently, I've been primarily exploring AIGC in various aspects of the development process, including workflow agents, multimodal scenes generation, AI-powered design collaboration, end-to-end coordination, and intelligent agent integration. I'm particularly interested in how AIGC can enhance the traditiona development workflow, development models, design collaboration, and product interaction patterns, ultimately leading to improved efficiency.  
 </p>
 
 - 🧑‍💻 Tech I work on :

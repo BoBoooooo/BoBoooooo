@@ -10,7 +10,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🏦 I'm a pseudo full-stack developer with a focus on low-code development & AIGC. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a pseudo full-stack developer with a focus on low-code development & AIGC & ReactNative. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p style="font-size: 14px">
 I have extensive experience in low-code development, specifically in front-end. I am proficient in a combination of LowCode, ProCode, and NoCode approaches. Additionally, I am knowledgeable in traditional DSL low-code and source code AST low-code.
